@@ -19,4 +19,4 @@ spec:
           image: 690940206480.dkr.ecr.us-east-2.amazonaws.com/petclinic-repo:1.1
           imagePullPolicy: Always
           ports:
-            - containerPort: 8082
+            - containerPort: 8080
